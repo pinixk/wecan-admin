@@ -127,4 +127,5 @@
 
 | 문자내역 |
 |----------|
-|![sms](https://github.com/user-attachments/assets/77db3224-a828-4d52-b62d-3a0c08160341)|
+|![sms](https://github.com/user-attachments/assets/b0d56ada-317f-4b6c-8b4e-1bf064d47069)|
+
