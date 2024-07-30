@@ -48,7 +48,7 @@
 
 | 상담예약 |
 |----------|
-|![councel](https://github.com/user-attachments/assets/e70a557d-491c-4d36-b1c5-d2b46b7a826b)|
+|![councel](https://github.com/user-attachments/assets/07f0bdca-b50c-4719-b7e0-ece11a984e92)|
 
 
 ### [회원]
