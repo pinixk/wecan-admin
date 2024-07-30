@@ -94,7 +94,7 @@
 
 | 강사목록 |
 |----------|
-|![director](https://github.com/user-attachments/assets/96f08280-df72-4b17-8800-8a351e919808)|
+|![director](https://github.com/user-attachments/assets/2ff84fb2-1b61-4729-a453-0791469d0cdd)|
 
 | 강사 정보 |
 |----------|
