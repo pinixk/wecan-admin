@@ -72,7 +72,7 @@
 
 | 회원권 |
 |----------|
-|![ticket](https://github.com/user-attachments/assets/4cde7a29-dd9f-4de8-aff8-506d81b5e677)|
+|![ticket](https://github.com/user-attachments/assets/436136e5-62a5-4d77-9e49-4d7c2a40444c)|
 
 | 회원권 정보 |
 |----------|
