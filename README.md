@@ -69,7 +69,7 @@
 
 <br><br>
 
-| 매출현황 | 출석율 | 문자내역]
+| 매출현황 | 출석율 | 문자내역 |
 |:--:|:--:|:--:|
 |![money](https://github.com/user-attachments/assets/e916c15e-2858-46b1-addf-7ca17b5a5c94)|![coaching](https://github.com/user-attachments/assets/02c913c3-da56-4910-9858-cc86b57fb3c6)|![sms](https://github.com/user-attachments/assets/b0d56ada-317f-4b6c-8b4e-1bf064d47069)|
 
